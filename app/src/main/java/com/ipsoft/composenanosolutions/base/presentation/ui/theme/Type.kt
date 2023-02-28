@@ -1,4 +1,4 @@
-package com.ipsoft.composenanosolutions.ui.theme
+package com.ipsoft.composenanosolutions.base.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
